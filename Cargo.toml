@@ -1,0 +1,9 @@
+[package]
+name = "simple_snake"
+version = "0.1.0"
+authors = ["legendiguess"]
+edition = "2018"
+
+[dependencies]
+minifb = "*"
+rand = "*"

@@ -3,4 +3,4 @@
 
 *Controls:* <kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd>
 
-*Version:* **0.1** 
+*Version:* **0.1.1** 
